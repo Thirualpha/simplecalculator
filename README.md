@@ -176,6 +176,15 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
+![image](https://github.com/Thirualpha/simplecalculator/assets/113031702/e9a1bcd2-56aa-41f7-b638-dfedb49b1111)
+
+![image](https://github.com/Thirualpha/simplecalculator/assets/113031702/1e537cd8-8cbf-4761-8308-0951c5870768)
+
+
+![image](https://github.com/Thirualpha/simplecalculator/assets/113031702/bcd62526-3f29-4d4a-b5b2-dd58146ab265)
+
+
+![image](https://github.com/Thirualpha/simplecalculator/assets/113031702/d3f44eaa-9ed3-4383-943e-a151818d6f94)
 
 
 
